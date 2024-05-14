@@ -8,7 +8,7 @@ Customer Management: Allows for the management of customer profiles, including p
 
 Booking System: Facilitates the booking process for flights, hotels, tours, and other travel-related services. Users can search for available options, make reservations, and receive confirmation.
 
-Inventory Management: Enables administrators to maintain and update the inventory of flights, hotels, and tour packages in real-time.
+Inventory Management: Enables administrators to maintain and update the inventory of  hotels, and tour packages in real-time.
 
 Payment Processing: Integration with payment gateways for seamless and secure transaction processing, supporting various payment methods.
 
